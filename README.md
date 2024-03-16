@@ -38,8 +38,8 @@ I am a passionate and driven computer science graduate student at Rochester Inst
 - [LinkedIn](https://www.linkedin.com/in/atharva-chiplunkar)
 
 ## 🚀 My Projects
-- [Flick List (Movie & TV app)](https://github.com/yourusername/project1)
-- [Driver Drowsiness Detection](https://github.com/yourusername/project2)
+- [Flick List (Movie & TV app)](https://github.com/AtharvaChiplunkar12/movie-tv-catlog)
+- [Driver Drowsiness Detection](https://github.com/AtharvaChiplunkar12/Driver-Drowsiness-Detection)
 
 
 
