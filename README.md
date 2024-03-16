@@ -4,6 +4,14 @@
 
 I am a passionate and driven computer science graduate student at Rochester Institute of Technology, keen to explore cutting-edge technologies and their practical applications. Throughout my academic journey, I have acquired a strong foundation in various programming languages such as Java, Python, and SQL. I have gained expertise in frameworks and tools like React, Git, Selenium, and Docker. My hands-on experience with AWS services, including EC2, S3, DynamoDB, and Lambda, has further honed my cloud computing and infrastructure management skills. I am enthusiastic about leveraging my knowledge and skills to tackle complex challenges and contribute to innovative projects that make a positive impact on society. Outside of academics, I enjoy staying updated with the latest advancements in technology, exploring new coding techniques, and collaborating with like-minded individuals on exciting ventures.
 
+## Interests
+- Software Development 
+- Full Stack Development
+- Cloud Computing and Infrastructure Management
+- Artificial Intelligence and Machine Learning
+- Web Development and Frontend Design
+- Data Science and Big Data Analytics
+
 ## 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
