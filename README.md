@@ -39,7 +39,7 @@ I am a passionate and driven computer science graduate student at Rochester Inst
 
 ## 🚀 My Projects
 - [Flick List (Movie & TV app)](https://github.com/AtharvaChiplunkar12/movie-tv-catlog)
-- [FocusGuard (Student Attention Monitoring System](https://github.com/AtharvaChiplunkar12/student-monitoring-system)
+- [FocusGuard (Student Attention Monitoring System)](https://github.com/AtharvaChiplunkar12/student-monitoring-system)
 - [Driver Drowsiness Detection](https://github.com/AtharvaChiplunkar12/Driver-Drowsiness-Detection)
 
 
