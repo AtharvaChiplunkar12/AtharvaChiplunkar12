@@ -34,7 +34,7 @@ I am a passionate and driven computer science graduate student at Rochester Inst
 
 
 ## 📫 How to Reach Me
-- [Email](mailto:atharvamchiplunkar@gmail.com)
+- Email - atharvamchiplunkar@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/atharva-chiplunkar)
 
 ## 🚀 My Projects
