@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate and driven computer science graduate student at Rochester Institute of Technology, keen to explore cutting-edge technologies and their practical applications. Throughout my academic journey, I have acquired a strong foundation in various programming languages such as Java, Python, and SQL. I have gained expertise in frameworks and tools like React, Git, Selenium, and Docker. My hands-on experience with AWS services, including EC2, S3, DynamoDB, and Lambda, has further honed my cloud computing and infrastructure management skills. I am enthusiastic about leveraging my knowledge and skills to tackle complex challenges and contribute to innovative projects that make a positive impact on society. Outside of academics, I enjoy staying updated with the latest advancements in technology, exploring new coding techniques, and collaborating with like-minded individuals on exciting ventures.
+I am a passionate and driven computer science graduate student at Rochester Institute of Technology, keen to explore cutting-edge technologies and their practical applications. Throughout my academic journey, I have acquired a strong foundation in various programming languages such as Java, Python, and SQL. I have gained expertise in frameworks and tools like React, Git, Selenium, and Docker. My hands-on experience with AWS services, including EC2, S3, DynamoDB, and Lambda, has further honed my cloud computing and infrastructure management skills. I am enthusiastic about leveraging my knowledge and skills to tackle complex challenges and contribute to innovative projects that make a positive impact on society. Outside of academics, I enjoy staying updated with the latest technological advancements, exploring new coding techniques, and collaborating with like-minded individuals on exciting ventures.
 
 ## Interests
 - Software Development 
@@ -39,6 +39,7 @@ I am a passionate and driven computer science graduate student at Rochester Inst
 - [LinkedIn](https://www.linkedin.com/in/atharva-chiplunkar)
 
 ## 🚀 My Projects
+- [AutoTrack (Attendance Management System)](https://github.com/SWEN-614-Team6/Attendance_Automation)
 - [Flick List (Movie & TV app)](https://github.com/AtharvaChiplunkar12/movie-tv-catlog)
 - [FocusGuard (Student Attention Monitoring System)](https://github.com/AtharvaChiplunkar12/student-monitoring-system)
 - [Driver Drowsiness Detection](https://github.com/AtharvaChiplunkar12/Driver-Drowsiness-Detection)
