@@ -33,6 +33,8 @@ I am a passionate and driven computer science graduate student at Rochester Inst
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaChiplunkar12&layout=compact)
+
 
 ## 📫 How to Reach Me
 - Email - atharvamchiplunkar@gmail.com
@@ -48,3 +50,4 @@ I am a passionate and driven computer science graduate student at Rochester Inst
 
 ## 🤝 Let's Connect
 Feel free to connect with me to discuss the exciting world of technology!
+
