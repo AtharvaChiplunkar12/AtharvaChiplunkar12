@@ -15,6 +15,7 @@ I am a passionate and driven computer science graduate student at Rochester Inst
 ## 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=plastic&logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=plastic&logo=terraform&logoColor=white)
